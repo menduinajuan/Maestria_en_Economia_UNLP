@@ -33,7 +33,7 @@ Este repositorio (en los próximos meses) contendrá las resoluciones de los tra
 
 ## Cómo Contribuir
 
-1. Darle Star (estrella) al repositorio.
+1. Darle estrella (Star) al repositorio.
 2. Seguirme en GitHub/GitLab.
 3. Hacer un fork del repositorio.
 
