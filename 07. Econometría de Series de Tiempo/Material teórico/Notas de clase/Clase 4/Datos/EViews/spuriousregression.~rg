@@ -1,0 +1,32 @@
+'Magdalena Cornejo
+'UDESA 2018
+'Simulando: regresión espuria
+
+
+'create workfile
+wfcreate coint u 1 100
+
+'set seed for random number generator
+rndseed 123456
+
+'Spurious Regression
+
+genr e=nrnd
+genr u=nrnd
+genr y=0 'condición inicial
+genr x=0 'condición inicial
+
+smpl @first+1 @last 'restringir la muestra de t+1 a T para poder rezagar.
+genr y=2+y(-1)+e
+genr x=-1+x(-1)+u
+
+ls y  c x  'Estima por MCO
+
+'Modelo en primeras diferencias
+
+genr dy=y-y(-1)
+genr dx=x-x(-1)
+
+ls dy c dx
+
+

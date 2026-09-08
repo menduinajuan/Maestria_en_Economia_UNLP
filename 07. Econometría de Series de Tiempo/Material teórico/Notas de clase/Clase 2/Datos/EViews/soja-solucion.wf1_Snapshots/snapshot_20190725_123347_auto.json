@@ -1,0 +1,102 @@
+
+{
+	"commands" : "",
+	"description" : "",
+	"label" : "save",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\magdalena cornejo\\dropbox\\unlp\\st 2019 - unlp\\clase 2\\eviews\\soja-solucion.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "M",
+				"_last_update" : [ 737264.5234606481, "07/25/2019 12:33" ],
+				"_name" : "Soja",
+				"_obj_count" : 14,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : "date",
+						"_name" : "@DATE",
+						"_obs_max" : [ 734623.0, "05/01/2012" ],
+						"_obs_min" : [ 722449.0, "01/01/1979" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "AUTOCORRELATION",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "DLF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DLS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "F",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GRANGER_CAUSALITY",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "GRAPH_DIFF",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "GRAPH_LEVELS",
+						"_type" : "GRAPH"
+					},
+					
+					{
+						"_name" : "MONTH",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "NORMALITY",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "S",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "VAR",
+						"_type" : "VAR"
+					},
+					
+					{
+						"_name" : "VAR_LAG_ORDER",
+						"_type" : "TABLE"
+					}
+				],
+				"_obs_count" : 401
+			}
+		]
+	}
+}

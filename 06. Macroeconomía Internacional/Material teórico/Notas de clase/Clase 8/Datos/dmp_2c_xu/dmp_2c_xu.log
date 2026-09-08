@@ -1,0 +1,319 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 52 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0
+Equation number 2 : 0
+Equation number 3 : 0
+Equation number 4 : 0
+Equation number 5 : 0
+Equation number 6 : 0
+Equation number 7 : 0
+Equation number 8 : 0
+Equation number 9 : 0
+Equation number 10 : 0
+Equation number 11 : 0
+Equation number 12 : 0
+Equation number 13 : 0
+Equation number 14 : 0
+Equation number 15 : 0
+Equation number 16 : 0
+Equation number 17 : 0
+Equation number 18 : 0
+Equation number 19 : 0
+Equation number 20 : 0
+Equation number 21 : 0
+Equation number 22 : 0
+Equation number 23 : 0
+Equation number 24 : 0
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 0
+Equation number 29 : 0
+Equation number 30 : 0
+Equation number 31 : 0
+Equation number 32 : 0
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : 0
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0
+Equation number 42 : 0
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : 0
+Equation number 47 : 0
+Equation number 48 : 0
+Equation number 49 : 0
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 0
+
+
+
+ans =
+
+  1.0e-015 *
+
+         0
+    0.1110
+         0
+    0.1110
+    0.1110
+         0
+         0
+         0
+   -0.1388
+         0
+         0
+         0
+         0
+         0
+    0.1110
+         0
+         0
+         0
+   -0.1388
+         0
+         0
+         0
+         0
+         0
+    0.0208
+    0.0208
+         0
+         0
+    0.0139
+    0.0139
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+         0
+
+
+STEADY-STATE RESULTS:
+
+V1t         		 0.0633333
+V2t         		 0.0633333
+Kc1t        		 6.53566
+Kc2t        		 6.53566
+N1t         		 0.57
+N2t         		 0.57
+Y1t         		 0.655452
+Y2t         		 0.655452
+Cc1t        		 0.485506
+Cc2t        		 0.485506
+lambda1t    		 2.05971
+lambda2t    		 2.05971
+Pc1t        		 1
+Pc2t        		 1
+h1t         		 0.333333
+h2t         		 0.333333
+W1t         		 2.20436
+W2t         		 2.20436
+P1t         		 1
+P2t         		 1
+mu1t        		 0.883721
+mu2t        		 0.883721
+xi1t        		 0.114992
+xi2t        		 0.114992
+m1t         		 0.9
+m2t         		 0.9
+q1t         		 1
+q2t         		 1
+Ic1t        		 0.163392
+Ic2t        		 0.163392
+Yb1t        		 0.648898
+Yb2t        		 0.648898
+lnV1t       		 -2.75934
+lnV2t       		 -2.75934
+a1t         		 0
+a2t         		 0
+LabProd1    		 3.44975
+LabProd2    		 3.44975
+TotHours1   		 0.19
+TotHours2   		 0.19
+lnTotHours1 		 -1.66073
+lnTotHours2 		 -1.66073
+LabShare1   		 0.63899
+LabShare2   		 0.63899
+lnYb1t      		 -0.43248
+lnYb2t      		 -0.43248
+lnN1t       		 -0.562119
+lnN2t       		 -0.562119
+lnIc1t      		 -1.81161
+lnIc2t      		 -1.81161
+lnCc1t      		 -0.722563
+lnCc2t      		 -0.722563
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+          0.5434           0.5434                0
+          0.5548           0.5548                0
+           0.818            0.818                0
+          0.9336           0.9336                0
+          0.9534           0.9534                0
+           0.994            0.994                0
+            1.06             1.06                0
+           1.082            1.082                0
+           1.821            1.821                0
+           1.859            1.859                0
+      1.999e+017       1.999e+017                0
+      6.313e+017      -6.313e+017                0
+      1.587e+018       1.587e+018                0
+      3.939e+018      -3.939e+018                0
+      1.429e+019       1.429e+019                0
+      3.421e+019       3.421e+019                0
+             Inf              Inf                0
+             Inf              Inf                0
+             Inf              Inf                0
+             Inf              Inf                0
+             Inf              Inf                0
+             Inf             -Inf                0
+
+
+There are 16 eigenvalue(s) larger than 1 in modulus 
+for 16 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+MODEL SUMMARY
+
+  Number of variables:         52
+  Number of stochastic shocks: 2
+  Number of state variables:   6
+  Number of jumpers:           16
+  Number of static variables:  30
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables      epsiaa    epsibb
+epsiaa       0.000073  0.000000
+epsibb       0.000000  0.000073
+
+POLICY AND TRANSITION FUNCTIONS
+                               lnN1t           lnN2t     lnTotHours1     lnTotHours2           lnV1t           lnV2t          lnIc1t          lnIc2t          lnYb1t          lnYb2t          lnCc1t          lnCc2t       LabShare1       LabShare2
+Constant                   -0.562119       -0.562119       -1.660731       -1.660731       -2.759343       -2.759343       -1.811606       -1.811606       -0.432480       -0.432480       -0.722563       -0.722563        0.638990        0.638990
+Kc1t(-1)                           0               0       -0.009018       -0.001374       -0.235449       -0.056585       -0.121342        0.073662        0.050551       -0.000330        0.067952        0.015216        0.006776        0.049105
+Kc2t(-1)                           0               0       -0.001374       -0.009018       -0.056585       -0.235449        0.073662       -0.121342       -0.000330        0.050551        0.015216        0.067952        0.000966       -0.041364
+N1t(-1)                     1.754386               0        1.444504        0.015885       -9.053517        0.103949        3.664842       -0.163030        1.039861        0.009380        0.221969        0.001887        0.253093        0.186815
+N2t(-1)                            0        1.754386        0.015885        1.444504        0.103949       -9.053517       -0.163030        3.664842        0.009380        1.039861        0.001887        0.221969       -0.014085        0.052193
+a1t(-1)                            0               0        0.143261       -0.031852        4.067701       -0.024799        2.581804       -0.476137        0.968124        0.068227        0.449868        0.226616       -0.115229        0.232542
+a2t(-1)                            0               0       -0.031852        0.143261       -0.024799        4.067701       -0.476137        2.581804        0.068227        0.968124        0.226616        0.449868        0.028748       -0.319022
+epsiaa                             0               0        0.156295       -0.029307        4.472954        0.135304        2.820620       -0.420498        1.067538        0.113735        0.503854        0.267229       -0.125588        0.243015
+epsibb                             0               0       -0.029307        0.156295        0.135304        4.472954       -0.420498        2.820620        0.113735        1.067538        0.267229        0.503854        0.027014       -0.341589
+
+
+THEORETICAL MOMENTS (HP filter, lambda = 1600)
+VARIABLE            MEAN  STD. DEV.   VARIANCE
+lnN1t            -0.5621     0.0050     0.0000
+lnN2t            -0.5621     0.0050     0.0000
+lnTotHours1      -1.6607     0.0052     0.0000
+lnTotHours2      -1.6607     0.0052     0.0000
+lnV1t            -2.7593     0.0402     0.0016
+lnV2t            -2.7593     0.0402     0.0016
+lnIc1t           -1.8116     0.0375     0.0014
+lnIc2t           -1.8116     0.0375     0.0014
+lnYb1t           -0.4325     0.0137     0.0002
+lnYb2t           -0.4325     0.0137     0.0002
+lnCc1t           -0.7226     0.0068     0.0000
+lnCc2t           -0.7226     0.0068     0.0000
+LabShare1         0.6390     0.0012     0.0000
+LabShare2         0.6390     0.0046     0.0000
+
+
+
+VARIANCE DECOMPOSITION (in percent) (HP filter, lambda = 1600)
+               epsiaa  epsibb
+lnN1t           91.03    8.97
+lnN2t            8.97   91.03
+lnTotHours1     89.89   10.11
+lnTotHours2     10.11   89.89
+lnV1t           96.63    3.37
+lnV2t            3.37   96.63
+lnIc1t          88.76   11.24
+lnIc2t          11.24   88.76
+lnYb1t          91.75    8.25
+lnYb2t           8.25   91.75
+lnCc1t          78.22   21.78
+lnCc2t          21.78   78.22
+LabShare1       95.48    4.52
+LabShare2       39.32   60.68
+
+
+
+MATRIX OF CORRELATIONS (HP filter, lambda = 1600)
+Variables            lnN1t        lnN2t  lnTotHours1  lnTotHours2        lnV1t        lnV2t       lnIc1t       lnIc2t       lnYb1t       lnYb2t       lnCc1t       lnCc2t    LabShare1    LabShare2
+lnN1t               1.0000       0.1945       0.9613       0.1644       0.0587       0.0519       0.7305       0.0872       0.7681       0.2029       0.7082       0.3901      -0.0272       0.4475
+lnN2t               0.1945       1.0000       0.1644       0.9613       0.0519       0.0587       0.0872       0.7305       0.2029       0.7681       0.3901       0.7082       0.0923      -0.4311
+lnTotHours1         0.9613       0.1644       1.0000       0.1095       0.3237       0.0060       0.8898      -0.0006       0.9008       0.1604       0.7984       0.4105      -0.3016       0.5659
+lnTotHours2         0.1644       0.9613       0.1095       1.0000       0.0060       0.3237      -0.0006       0.8898       0.1604       0.9008       0.4105       0.7984       0.1930      -0.5932
+lnV1t               0.0587       0.0519       0.3237       0.0060       1.0000       0.0529       0.7028      -0.0761       0.6652       0.1085       0.5734       0.3480      -0.9629       0.3471
+lnV2t               0.0519       0.0587       0.0060       0.3237       0.0529       1.0000      -0.0761       0.7028       0.1085       0.6652       0.3480       0.5734       0.1846      -0.5431
+lnIc1t              0.7305       0.0872       0.8898      -0.0006       0.7028      -0.0761       1.0000      -0.1462       0.9672       0.0682       0.8184       0.3869      -0.7001       0.6589
+lnIc2t              0.0872       0.7305      -0.0006       0.8898      -0.0761       0.7028      -0.1462       1.0000       0.0682       0.9672       0.3869       0.8184       0.3315      -0.7518
+lnYb1t              0.7681       0.2029       0.9008       0.1604       0.6652       0.1085       0.9672       0.0682       1.0000       0.2688       0.9340       0.5630      -0.6050       0.5321
+lnYb2t              0.2029       0.7681       0.1604       0.9008       0.1085       0.6652       0.0682       0.9672       0.2688       1.0000       0.5630       0.9340       0.1479      -0.6472
+lnCc1t              0.7082       0.3901       0.7984       0.4105       0.5734       0.3480       0.8184       0.3869       0.9340       0.5630       1.0000       0.7968      -0.4327       0.2422
+lnCc2t              0.3901       0.7082       0.4105       0.7984       0.3480       0.5734       0.3869       0.8184       0.5630       0.9340       0.7968       1.0000      -0.1147      -0.3800
+LabShare1          -0.0272       0.0923      -0.3016       0.1930      -0.9629       0.1846      -0.7001       0.3315      -0.6050       0.1479      -0.4327      -0.1147       1.0000      -0.5263
+LabShare2           0.4475      -0.4311       0.5659      -0.5932       0.3471      -0.5431       0.6589      -0.7518       0.5321      -0.6472       0.2422      -0.3800      -0.5263       1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION (HP filter, lambda = 1600)
+Order               1       2       3       4       5
+lnN1t          0.8754  0.6544  0.4155  0.1965  0.0135
+lnN2t          0.8754  0.6544  0.4155  0.1965  0.0135
+lnTotHours1    0.9052  0.6876  0.4410  0.2111  0.0175
+lnTotHours2    0.9052  0.6876  0.4410  0.2111  0.0175
+lnV1t          0.4354  0.1302 -0.0305 -0.1104 -0.1450
+lnV2t          0.4354  0.1302 -0.0305 -0.1104 -0.1450
+lnIc1t         0.7840  0.5402  0.3122  0.1187 -0.0345
+lnIc2t         0.7840  0.5402  0.3122  0.1187 -0.0345
+lnYb1t         0.7864  0.5555  0.3401  0.1546  0.0040
+lnYb2t         0.7864  0.5555  0.3401  0.1546  0.0040
+lnCc1t         0.7686  0.5514  0.3576  0.1910  0.0528
+lnCc2t         0.7686  0.5514  0.3576  0.1910  0.0528
+LabShare1      0.4321  0.1250 -0.0365 -0.1164 -0.1504
+LabShare2      0.7031  0.4572  0.2570  0.0974 -0.0261
+Total computing time : 0h00m03s

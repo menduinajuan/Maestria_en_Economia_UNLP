@@ -1,0 +1,98 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 9 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+y   		 1.33543
+c   		 1.016
+k   		 15.9714
+i   		 0.319428
+l   		 0.330677
+A   		 1
+y_l 		 4.03848
+r   		 0.010101
+w   		 2.58463
+
+MODEL SUMMARY
+
+  Number of variables:         9
+  Number of stochastic shocks: 1
+  Number of state variables:   2
+  Number of jumpers:           2
+  Number of static variables:  5
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables           e
+e            0.000064
+
+POLICY AND TRANSITION FUNCTIONS
+                                   y               c               k               i               l               A             y_l               r               w
+Constant                    1.335432        1.016004       15.971401        0.319428        0.330677        1.000000        4.038483        0.010101        2.584629
+k(-1)                       0.016663        0.036544        0.960120       -0.019880       -0.005199               0        0.113887       -0.001509        0.072888
+A(-1)                       1.873175        0.351467        1.521708        1.521708        0.233888        0.950000        2.808244        0.042222        1.797276
+e                           1.971763        0.369965        1.601798        1.601798        0.246198        1.000000        2.956046        0.044444        1.891869
+
+
+THEORETICAL MOMENTS (HP filter, lambda = 1600)
+VARIABLE         MEAN  STD. DEV.   VARIANCE
+y              1.3354     0.0206     0.0004
+c              1.0160     0.0044     0.0000
+k             15.9714     0.0593     0.0035
+i              0.3194     0.0167     0.0003
+l              0.3307     0.0026     0.0000
+A              1.0000     0.0104     0.0001
+y_l            4.0385     0.0315     0.0010
+r              0.0101     0.0005     0.0000
+w              2.5846     0.0202     0.0004
+
+
+
+MATRIX OF CORRELATIONS (HP filter, lambda = 1600)
+Variables         y       c       k       i       l       A     y_l       r       w
+y            1.0000  0.8942  0.3253  0.9930  0.9860  0.9988  0.9860  0.9717  0.9860
+c            0.8942  1.0000  0.7142  0.8351  0.8071  0.8717  0.9564  0.7631  0.9564
+k            0.3253  0.7142  1.0000  0.2114  0.1632  0.2796  0.4786  0.0927  0.4786
+i            0.9930  0.8351  0.2114  1.0000  0.9988  0.9975  0.9594  0.9928  0.9594
+l            0.9860  0.8071  0.1632  0.9988  1.0000  0.9929  0.9444  0.9975  0.9444
+A            0.9988  0.8717  0.2796  0.9975  0.9929  1.0000  0.9768  0.9819  0.9768
+y_l          0.9860  0.9564  0.4786  0.9594  0.9444  0.9768  1.0000  0.9186  1.0000
+r            0.9717  0.7631  0.0927  0.9928  0.9975  0.9819  0.9186  1.0000  0.9186
+w            0.9860  0.9564  0.4786  0.9594  0.9444  0.9768  1.0000  0.9186  1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION (HP filter, lambda = 1600)
+Order         1       2       3       4       5
+y        0.7172  0.4774  0.2784  0.1173 -0.0095
+c        0.8028  0.6131  0.4366  0.2770  0.1367
+k        0.9595  0.8615  0.7260  0.5693  0.4045
+i        0.7095  0.4652  0.2641  0.1028 -0.0228
+l        0.7084  0.4633  0.2620  0.1007 -0.0247
+A        0.7133  0.4711  0.2711  0.1098 -0.0163
+y_l      0.7394  0.5126  0.3194  0.1586  0.0284
+r        0.7089  0.4642  0.2630  0.1016 -0.0238
+w        0.7394  0.5126  0.3194  0.1586  0.0284
+
+
+Relative standard deviations in %
+VARIABLE    REL. S.D.
+y              1.5412
+c              0.4350
+k              0.3711
+i              5.2428
+l              0.7821
+A              1.0428
+y_l            0.7810
+r              4.6747
+w              0.7810
+Total computing time : 0h00m07s
