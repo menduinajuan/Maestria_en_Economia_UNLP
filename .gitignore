@@ -2,46 +2,6 @@
 *.ppu
 *.tmp
 
-# Microdatos crudos y gráficos pesados (encuestas de hogares) - demasiado pesados para git
 08. Economía de la Distribución/Trabajo Final/Datos/.dta/
 08. Economía de la Distribución/Trabajo Final/Datos/.fig/
-# Microdatos de encuestas en Trabajos Prácticos (EPH, ENGHo) - demasiado pesados para git
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 1/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 1/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 1/Datos/usu_individual_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 2/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 2/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 2/Datos/usu_individual_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 3/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 3/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 3/Datos/usu_individual_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/EPH_1erTrim_2017.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/usu_hogar_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/usu_individual_t117.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/usu_individual_t117.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 4/Datos/usu_individual_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/EPH_1erTrim_2017.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/usu_individual_t117.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/usu_individual_t117.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 5/Datos/usu_individual_t119.xls
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/Bases ENGHo (2012-2013)/Bases ENGHo (2012-2013).rar
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/Bases ENGHo (2012-2013)/ENGHo - Equipamiento.txt
 08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/Bases ENGHo (2012-2013)/ENGHo - Gastos por tipo de negocio y forma de pago.txt
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/Bases ENGHo (2012-2013)/ENGHo - Gastos.txt
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/Bases ENGHo (2012-2013)/ENGHo - Personas.txt
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Gastos.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Gastos.txt
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Gastos.xlsx
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Personas.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Personas.txt
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/ENGHo - Personas.xlsx
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/personas-hogares-gastos-ingresos.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/personas-hogares-gastos.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 7/Datos/personas-hogares.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 8/Datos/EPH_1erTrim_2019.zip
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 8/Datos/usu_individual_t119.dta
-08. Economía de la Distribución/Trabajos Prácticos/Trabajo Práctico N° 8/Datos/usu_individual_t119.xls
