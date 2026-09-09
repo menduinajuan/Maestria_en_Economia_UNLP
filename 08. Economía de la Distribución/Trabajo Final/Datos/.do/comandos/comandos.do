@@ -1,0 +1,6 @@
+quietly include "$dofiles/comandos/comando_atk"
+quietly include "$dofiles/comandos/comando_fgt"
+quietly include "$dofiles/comandos/comando_fgt_bs"
+quietly include "$dofiles/comandos/comando_cuantiles"
+quietly include "$dofiles/comandos/comando_gini"
+quietly include "$dofiles/comandos/comando_theil"

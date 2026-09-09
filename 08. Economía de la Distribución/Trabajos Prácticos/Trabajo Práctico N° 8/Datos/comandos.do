@@ -1,0 +1,5 @@
+quietly include "comando_atk"
+quietly include "comando_fgt"
+quietly include "comando_gcuan"
+quietly include "comando_gini"
+quietly include "comando_theil"
