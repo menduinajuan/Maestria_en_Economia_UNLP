@@ -1,0 +1,684 @@
+StataFileTM:00001:01000:LiveGPH:                       :
+00005:00004:
+*! classname: twowaygraph_g
+*! family: twoway
+*! command: twoway    (line gap1 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap2 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap4 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap5 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap6 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap7 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap8 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap9 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap10 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap11 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap12 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap13 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap14 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap15 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap16 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap17 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap18 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap19 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap20 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap21 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap22 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap23 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap24 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap25 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap26 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap27 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap28 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap29 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap30 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap31 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap32 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap33 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap34 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap35 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap36 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap37 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap38 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap39 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap3 year, lp(solid) lw(vthin) lcolor(black)),                                 ytitle("gap in per-capita cigarette state (in packs)") xtitle("year") yline(0) xline(1989) legend(off)
+*! command_date: 10 May 2020
+*! command_time: 12:18:26
+*! datafile: placebo.dta
+*! datafile_date: 10 May 2020 12:11
+*! scheme: s2color
+*! naturallywhite: 1
+*! xsize: 5.5
+*! ysize: 4
+*! end
+<BeginItem> serset Kbaab5f8 
+<BeginSerset>
+<BeginSeries>
+.name = `"gap1"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -6.155198574066162
+.max =  3.419198036193848
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"year"'
+.label = `""'
+.format = `"%10.0g"'
+.type.set numeric
+.min =  1970
+.max =  2000
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap2"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -7.856201171875
+.max =  8.616499900817871
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap4"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -4.366003036499023
+.max =  15.20469379425049
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap5"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -11.41580295562744
+.max =  15.91549682617188
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap6"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -1.132393479347229
+.max =  41.64739608764648
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap7"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -16.77389526367188
+.max =  1.993496537208557
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap8"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -7.566502571105957
+.max =  12.44950199127197
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap9"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -14.73020267486572
+.max =  2.019999504089355
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap10"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -1.944709181785583
+.max =  45.74050140380859
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap11"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -7.067402362823486
+.max =  11.14600086212158
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap12"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -10.59639549255371
+.max =  4.695694923400879
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap13"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -64.17459869384766
+.max =  40.80020523071289
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap14"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -4.695105075836182
+.max =  11.79150199890137
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap15"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -19.03140258789063
+.max =  8.558100700378418
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap16"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -8.881999969482422
+.max =  10.69840240478516
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap17"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -7.122799873352051
+.max =  8.093400001525879
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap18"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -6.025496482849121
+.max =  11.26809978485107
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap19"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -4.474405288696289
+.max =  12.00480175018311
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap20"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -5.907598972320557
+.max =  11.07419872283936
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap21"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -28.72139930725098
+.max =  13.68219947814941
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap22"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -30.10000610351563
+.max =  116.8000183105469
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap23"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -15.54230213165283
+.max =  1.52019476890564
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap24"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -32.29711151123047
+.max =  11.77989673614502
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap25"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -9.82140064239502
+.max =  5.665595054626465
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap26"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -1.923802733421326
+.max =  10.22429656982422
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap27"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -14.53009414672852
+.max =  17.05440139770508
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap28"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -8.242395401000977
+.max =  6.532801628112793
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap29"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -49.90549850463867
+.max =  2.114896535873413
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap30"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -12.67949771881104
+.max =  11.26770305633545
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap31"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -6.167599678039551
+.max =  12.45169925689697
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap32"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -3.118099212646484
+.max =  19.65820121765137
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap33"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -16.86730003356934
+.max =  5.022295475006104
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap34"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -28
+.max =  -4.799999237060547
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap35"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -25.62039756774902
+.max =  13.11100196838379
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap36"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -14.35460662841797
+.max =  3.697695016860962
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap37"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -4.837197780609131
+.max =  27.57360076904297
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap38"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -8.327999114990234
+.max =  9.851601600646973
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap39"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -20.91109848022461
+.max =  10.085205078125
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+<BeginSeries>
+.name = `"gap3"'
+.label = `""'
+.format = `"%9.0g"'
+.type.set numeric
+.min =  -24.87769889831543
+.max =  4.957698822021484
+.median = (.)
+.pct25 = (.)
+.pct75 = (.)
+.categories = (.)
+<EndSeries>
+.weight_id = (.)
+<BeginSersetData>
+sersetreadwrite (      ˛ˇ˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛˛gap1 eated                                                                                                                                            year                                                                                                                                                  gap2 nthetic                                                                                                                                          gap4                                                                                                                                                  gap5                                                                                                                                                  gap6                                                                                                                                                  gap7                                                                                                                                                  gap8                                                                                                                                                  gap9                                                                                                                                                  gap10                                                                                                                                                 gap11                                                                                                                                                 gap12                                                                                                                                                 gap13                                                                                                                                                 gap14                                                                                                                                                 gap15                                                                                                                                                 gap16                                                                                                                                                 gap17                                                                                                                                                 gap18                                                                                                                                                 gap19                                                                                                                                                 gap20                                                                                                                                                 gap21                                                                                                                                                 gap22                                                                                                                                                 gap23                                                                                                                                                 gap24                                                                                                                                                 gap25                                                                                                                                                 gap26                                                                                                                                                 gap27                                                                                                                                                 gap28                                                                                                                                                 gap29                                                                                                                                                 gap30                                                                                                                                                 gap31                                                                                                                                                 gap32                                                                                                                                                 gap33                                                                                                                                                 gap34                                                                                                                                                 gap35                                                                                                                                                 gap36                                                                                                                                                 gap37                                                                                                                                                 gap38                                                                                                                                                 gap39                                                                                                                                                 gap3                                                                                                                                                  %9.0g                                                    %10.0g                                                   %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                    %9.0g                                                       `Ïû¿     »û@    ¿l¿   Ä…v¿    ‰‘&¿   †HÚø    ∆0¿   @D¿    ›u-¿   `áˇø    E¿   ¿Z1%¿   †,P¿   †…«¿    
+3¿   Äï√!¿   @ø}¿   ¿¿   Ä Â¿   †a°¿   †≠∏<¿    ö>¿   †®/¿   ¿&@¿   †é§#¿   `Â«˛ø   Äh-¿   @| ¿   `ÁÛH¿    Á[)¿   @ü´¿    ﬁÒ¿   `ﬁ0¿      <¿   `“û9¿    èµ,¿   `JY¿   ÄÔß ¿   ¿=È4¿   ‡∞‡8¿   ÄÑZ@     @ü@   ‡•;!@   †Õh.@    º‘/@   ‡›“D@   †\Âˇ?    %Ê(@   Äı( @   ¿»ﬁF@   †¿J&@   @d»@    mfD@   ¿?ï'@   `ø!@    ïe%@    “/ @   `Dâ&@   `u(@   `˝%&@   @I]+@   Ä33]@   ¿∑R¯?   †Nè'@   ¿ë©@    ◊r$@   @Ì1@   ¿ñ!@   ‡NÎ @   `â&@    EÁ(@   ‡®3@   †‘@    33¿   @’8*@    ·î@   Ä◊í;@    ¥#@    †+$@    Ø‘@åƒ¿     »û@‚Ë?Ä@‡•~AéS≤AÚˇoø3≠q¿ø®Ç¿?⁄@høÛ¬l@JPv¬)Ì©@{ïo@Ç‚æ˙Ì„¿ﬁ–¿¿óV@Èé{@JÍZAŒÃ€B~)¿>0¬hö¡∏ñ#AÌ‚:¿ÁÎ∞¿sË«¡Í_6¿Áqî¿éG¿[.@  ƒ¡–;´¡ê≤@¡‹O√@|jL¿„hR¡x•û@c˜ƒ¿     Ãû@BÖìø ˇ@£`˙@"ÀAƒHOø˜©¿~å¿f°Aäg¿÷ä)¡eYÄ¬»®h@⁄ˇ@®,+A∫XË>¿;¿<5^@©·9@bë©@  ÂB[B¿%m´¡dÃ¡≈˛	Aﬂ>⁄‡¡$A¯¡6l?ÍÉ¨¿.}∆ø;@43«¡ìˆÃ¡x¨e¡ˆ˙Køpä¥¿{Xé¡ä˜?∞yg¿     –û@¸ˇ’¿oHAï©A‘’XAÏs¿µ¸Á@z–¿∫ñà@n= ¿Öû«¿õÆv¬ã‡P@X9¬@¨¡´Pã@g¿ O≠>Ω¿Æ˙t¿úôÈBË"ÍæîÀª¿µ⁄¡µ.‘@≈b^?Ãv¢¿ |§¡ﬁö¿≥.¬¿ác@t0Çø  ‡¡6 á¡Ï∑W¡¬∫∞?yaZ¿[ü¡ü∑êøghU¿     ‘û@«=—ømFsAÌ-@Û(BA”iŒ?M¸?ÚJ¡ñeH@evª¿>nc¿“wﬁ¡ÕÏ@æÆó@FæË?Ñ@¬ü?ΩÖø>pà¿«¿43öBÁg"ø„•	A≤Ωu¿XS?„\ø(ÅÕøL—f¡ÔÊ?˙\≈¿	*¿ô`¿úô—¡%á‘¿ú#¡¸¿≠¿ÓIß¡˝Ë¿⁄Bçø     ÿû@mõ¿Õè’@e∂√?
+Œ@Â*ˇ?§b@ÏsVøP.c@¿0m¿ûLÉ¿¥b:¡˛Ïøi˛Ω@Oà?œÂg@Ô≠Ø?íø=>)ˆG¿ß@Ú?òôeBèí“ø‚=A∏çæ¿=∂ìøat$@0W¨æüg¡÷!ï?°õÄ¿ıA>øÓ)⁄æúô≈¡ıøuuU¿ôˆ¿;· ø´%Y¡°#™æ¥™∆Ω     ‹û@ÕÁ¿≈u¿æÒ◊©øEÚêøˇ!æIEÿ>i
+ÇΩÑ`å?Ëìáæ∂sÚºÛ◊ø≥ÜÂæˇ7V>Rê€;LO¸º°+>¡Lÿº/Œ™Ω◊&-@hf8Bç«(ºî\¯@≤åFæªß˜æÍ&ø∂ƒ‡æÑzr><Ö´æ¨	à>ƒ±Œæ#B¿df⁄¡»äÆæ{Ræñµƒ>®x)æá¯‹=}ª6?¬?     ‡û@Œ¿Êkx?˜e/¿ÑÉ@¡åøüı?_ ¿µíﬁ@ó‚Ω'Öâ>X'$¡gºøu\∆?•Ù:?saÚæ]@”?¸L¿!ø?≥G¡hfnB-¿OØAÏ“m@+?ˆø±√¢ø1&≥?Z0¡«%§?æø>¯Œ>∑a¿  ƒ¡Ú«@]Ω@ÌN@=œÊæœM–¿÷Uü>ª@Çø     ‰û@§N®ø%Õãø•mñ>iò<@¥[∏ø2ƒ¡?wú¿›qäA¸DæÈ·Høﬂ–ä¿dq¿≥äÆ?îAœ>‰6äø◊â?¯cÃ?˚-n>AP.¡òôEBÔSk¿_˛è@aè≤øøëÑø|¥∑?Ü!,>/E¡ˇÅ>„ìßøæö?≠¡πΩ43√¡•W™@	ßl@õi≤@ÿ5=∫Gy¿Aﬂ∑?≠üÍ?     Ëû@√§>L∂ã¿=ˆ∑øß@1®›øw∫<>g–õ?®˜Ñø!`U?/1¿≤~k¿òGCæ°õ>Ø#˘?´∏≠øü6´>68@Ìø≠Ê¿úô3BÎ…c¿ ‘Ω%]¿_6?^§o@÷ùΩx¿¸¿#y@¡F„æ™1ø¸ü?  º¡w´ˆøyôM@õß≈@88œøhﬂøÇ@˘o_?     Ïû@ÏR„Ω
+f'¿‰s≠ø√=˘?£√ æÏÚæ÷'>ñ·‹æ’∂æVŒøøˆ"¿ûêø ®tø≥€?èBΩS∏=ÌeáøÆ°	Ω£NX¿–ÃBÁ?4¿Œ·ø˝≤{ø\úo>€ b@-“O?f$õ¿È0Iø∑P/@W'—æ¿±÷?43Ø¡·IÉ?Û◊?…ÜÁæ˝Û¨> ]!A}Ö“ø=27æ     û@Áè@¥∫ò>Mrø˙p,>•Ÿ>∑40øî%®Ω;Ï¯øqÕ{æûí<◊≥±?|∫?[>æ≠ø<yk=Íß
+>Ñ¢‘>icàΩıÈE¿  B:AÇæÈéµ¿É!?OØ>J…ù?W;=_Ø#øè™$>˝áÉ>‡öwøûË0@03ﬂ¡LØ>BAuæ¢ÚOøø¡◊æ¡]?í®ø¿     Ùû@º4?˝π@eëó¿6ß@ÊNÄø∑7àø¨,¿Z6o=˜á	A+ó@Vò‰ø)ˆá?Å»iæ 0@mÈïæßwæΩΩÑ\ø-ìâ>}Œû¿ÃÃB¬vñøb+¡yj@‚Ck?–0@≤m@ƒ⁄¨æ=‚gøâ©?"‹?Ëdj?43À¡Ïì@ÃA_@ n¿¬„‘?{≈í@r4,¿å&¿     ¯û@(>$¿Ç«°?{_ó¿®ƒ∞@7¿
+¨ ¿w≈B¿ha>@)(‚¿ng@$H@¨Eÿæ$n3@Äæ@û˚ ?•8Æø–p@Ç∞5@π¡òôÈAœ’ñ¿¬¸â¿&Ó?ø—$@Ãvæ@y^:?)\≥¿À–ø˚ô8?jHk@¶bW@43ø¡gTÑ@ÿ’¥>œÎÿøFéIº<Ó¬?…ë‹øuŸ]¿     ¸û@£ã+?Ï?ö@Òs=¿"ŸÓ@6√˚øLè@.ô¿Ud˜@HÜ¿ +á@zfùøM>ñ¿c6;@ëX∑>èÈ∆?J-¿èÚ ¿Éø,(“¿`f˛A©é¨?ıôÓ¿Mt¥?HU?¥r¯@†±@_8¡WW¿æ∂Ç?úÇ%@p≥:@hf⁄¡|bø|I@ÿ≈¿|?¡™,¡õù«ø#¿      ü@wñ2ΩòUÎ@á¯©?,¬ö@ãöøTx“?æµƒæ{_â@‘Â¿"Cñ@v≥¶¿	‚ñ>˚ÌAMœJ@exã>ao»ø£˙<@ïN@Ô°¡83ˇAw–[¿∂¶E@‚å–ø.Ñ˝?
+Ñf@ª	∑æÈã¿√ ©ø∫2$@â:@∑@ÃÃ¥¡≈Ìøq<«vr¿¬—8¿û›3¡ÌøÃ>›ä)¿     ü@@ë:æ>÷!@Ûj√ø_®Ò@Ze?èNË?§?√Ñ†@Ú5¿≥â?BÅL@u$¿ˆæû?X[ALD)øg"¿O"å>-yÄ?ñ“ú¿†ôïAs‡¿à‘q¿QÜ¿	 sææ®Ç@ÒR?\Ñı¿’Œg¿ ‚0@?ÏW@nﬁâ@  ¨¡%w1@‡!˚æj˛[¿xµçøjﬂ¿Òíëø—´æ     ü@§3"æLi@xlü?rsû@Ibò?3„?ô´ú>ˆ‚ƒ@·O±¿éP¿7†Ö@≈k¡øá…¡àæˇ?¿q¿¬Á^¿4W≥?Ö…¿»ÃÄAæï¬?LÔø-Õc¿!aíæ
+xK@/ÃΩøòÉ¿˜c¿˚'¿P@•∂†@dfæ¡ü<	¡àº?É‰b@ˇ…øeMó¿⁄ã√øn«ø     ü@˚‰ç¿H5˛?òﬂ^?•yA“v∆?°@	é¿33+A≥Gπ¿‡hú¿9jU¿‚[æâπ@<íAÜ‚'¿◊â–æT.è¿Y»@b∂B?83øAŸßV¿í:¡~≥¿zòÃør?@˝-PøoŒa¡pC<ø#⁄ø4C“@˚@†ôi¡§pÈ¿†›ì?23W¿™% @aJ¡ê‘U¿I>     ü@I"˝æÙÚ∑ø§wº@–@òuG=%´nøÄ*∫Ω5^í@Læ¸Ò‚º”oA,}øW3ì>ä¸∫Ωúc]æ)ã>Û(¿ˆyÉΩ¸Ú?`fÊ@øhF¨¿„'¿TÊ?“°!¿sÒ>wZ@≤Ω°> vq>˙cÜ@˘:$¿òôµ¡¥sï>(÷?ü⁄?ˆe/@‹÷ìøùÄ˛ø•ö¿     ü@^ì¿§ÿ_¿$!/@˘º@ñ¿c ¿èΩ?;
+wAmä*¿ÓZ
+¿8≤aA´,ç¿öé@ƒpù?≥≠ @7•Lø"§ß?c}b@™Ks@ f¶?;˙m¿aFÏ¿¬ÏV¿V9Ã?°Ωe¿±»F@§Ç1¡ˆ}›>ﬂÂøŸA$*¡ø43ã¡ïi¿7gÙø:Ô¿“df@?ï?h	„¿®{>@     ü@zö¿US@_ò0¿Z∫MA©iò¿]‹ A%…M¿≠≠ÀA6S›?o|?i3#BPø≈ø6Ô∂@‘¨‡@Mcæ≈R¿Æ2‘?8<@≤ãHA–Ã¡sQ}¿E
+Ÿ¿dï¿HI@3Ô¡#@–ë—¡^jºCßx?oA◊è¿43ã¡'∞A¸,⁄ø‚s!@pO*@¡ı¡])¡#$h?     ü@ö'ûæãS“@≥ª¿¯…´@∑@Ù¿≥·´@_0 >ÇQπA‹ú«@√„?y≤B%CË@\ò‡@  ˛?◊\-?«»@1¿
+æyOŒ@‘≈’¿»ÃÃ¡®`ê¿»ÓAéLµ@*&@D{h¡∂—@==ç¡è€§@åÎ£@∫„A≥Ût¡43É¡ÅA°#¡—T©ø–D‘@∞i>@c2a¡@é5ø      ü@/›	A∏.ê@u¢¿ıJA`}“¿p=^@ì˚≤?„ÿA+ªõ@Îò?ÜsAìAÿ_¢@>Eë@›úq¿/ê≤@ Ø@:p¿@Y‹$¡83ø¡æ±¶¿BA”¨∏¿™5@c™F¡ƒ{?∑ÛØ¡“‡7¿~˚–@«±†@˚u-¡43É¡™∆QA§¯¡S ö¿?>AÒß˛@|Z¡È@     $ü@%1`¿`f¬@äl˜¿|qAk°¥¿Ã û@¨G@D‡ÈA>y @~ì(@–°„A8◊@Ú¶Ë=ﬁÚØ?„$@˛LAYtX@¡ˆ@dfE¡†ôï¡a◊¿{aA‘ö@y“≠æ†Ôc¡‡Ö@&®Ì¡ÍHæ∞{Ä@wFA4÷¡ÃÃL¡íªú@Ë&¡ôwJAÃo•@°‘I@¨˙ã¡Z@     (ü@8Â¿˘~Ú@!ß6¡∑íA-U¥¿)1GA ûŒ¿π+B®pq@ˆc8¿÷	ÂAH%@u£)¿Úù@µbª@≠∆œ@õÕí@Qœ˛?®Ω
+¡hfÇ¡ı¡£Ô¿>,¨¿‘©>‚‡´@†Êâ@Úü¬¨4¿[›@?y-AOI,¡dfF¡URAÎÆ}¿Ú€Aq…@P ä@¨¡Ùßê¿     ,ü@ f˚¿õ›Ö@åS¡°#âA0Ü¡›fU¿zåÔ¿¯\&Bı˝®@µr0¿T∏ÍA‹ïÚ?≠Í«¿å§@ò‘Ω@-á A^‹+AﬂOŸ@%dû¡hfÜ¡À°¡â≥@üÔ—¿ƒà‘@¬[A’24@ä¬QÛ¡):GAˇCùA?Ωg¡  p¡	4A∏—¡ÜÖõAâÌ@GPAÿ¢¡e?¿     0ü@àZ£¿ƒTá@<N"¡Iî∞A˘‰¡  Ú¿‘hÚ¿U4(BfA±í>¿´
+Bºb√@2Õ≈¿Ö@ì·@#J4A•A√T—@ùÔπ¡  ®¡o¡uz<Aã∏¿í\@í\#AÖ˘g@÷'&¬9ﬂJ¡ÅÌ@ÎQXAUkg¡03;¡P⁄¡(Ì¡XuéAú^˘@ù≤û@‘ö´¡+w?     4ü@À®Ê¿¨÷H@Xı5¡åpA°´k¡{6Î¿èJ¡'‰$B
+¨A\{w¿∆óÚA÷≥≠@•pª¿Ù†˘@:}@$u÷@´@Ao_√@m≈Â¡pfF¡E≠x¡m+∞@u$¡ú^ù@Æ˙JA¯Zj@√µ¬c™ A>3[@jfgAå∞i¡òôô¿{à¡b;ª¿ ïA)†A¿%º?ô]Æ¡$‘Z@     8ü@Ô€Á¿Ñ“Ã@ﬁ&¡ü∆AŸm¡ ì°?¢y¡é1BGîAq8¿ì\oA‚?Ü@üâI¡-wÒ@«mº@]v	Aıó+Añ@ƒ†®¡   @6Õ¡/¥–?Ûl“¿r #@‰alA8Ë}@„-¬ÉH4ACﬂ£@VmAr=a¡ff¢¡cè¡ÄÚ‹¿X®…AﬂÚ©@4∆@¿e*ù¡∏äù?     <ü@Ï(˙¿Û¬Ï@ˇ-¡È∑B@∆S¡ÆØª?ÈÆk¡Fˆ6B∞{Arú≤¿oCA∂Û∑@P@ò¡Aë~AÚ∞AÉÔ@Î/1AjÁ>¡¿ÃÃ@ï¡7¡„µÏ¿ø⁄&@joàAfMπ@cÓA¬T ¿—ﬁ(@›OoA;Ü¡ÃÃ|¡{¡ÿÁ¢¿ºñ‹AªÑ@Ôv∂?á«¡ÈA@     @ü@ﬂHÿ¿4ˆ@'~¡Ôñ&B‹Ü¡b≈ñø¬®;¡wÌ&BV2A¶≠™¿t≠∞A˛©<A“¡ﬂ-∫@lqó@€_AÂ–Ë@≠.ÿ@Ê«V¡`f¡;#¡˙Êºø˚¬Ã¿Y9§@jMpAaTº@;üG¬≠M™ø≈Ã]æalA8íY¡òôQ¡R⁄S¡∞Ë∆¿’xÿAg˘ß?m	}¿≤Pƒ¡
+<EndSersetData>
+<EndSerset>
+<EndItem>
+<BeginItem> scheme Kbaae6b8 
+.setscheme , scheme(s2color) naturallywhite(1)
+<EndItem>
+<BeginItem> twowaygraph_g Kbcdd208 <UseScheme> Kbaae6b8
+.sersets[1] = .__Map.Kbaab5f8.ref
+.insert (plotregion1 = .plotregion.new , style(scheme twoway) graph(`.objkey')) at 1 1
+.plotregion1.Declare plot1 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap1') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot1.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot2 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap2') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot2.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot3 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap4') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot3.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot4 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap5') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot4.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot5 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap6') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot5.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot6 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap7') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot6.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot7 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap8') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot7.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot8 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap9') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot8.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot9 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap10') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot9.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot10 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap11') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot10.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot11 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap12') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot11.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot12 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap13') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot12.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot13 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap14') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot13.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot14 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap15') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot14.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot15 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap16') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot15.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot16 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap17') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot16.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot17 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap18') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot17.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot18 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap19') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot18.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot19 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap20') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot19.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot20 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap21') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot20.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot21 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap22') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot21.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot22 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap23') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot22.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot23 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap24') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot23.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot24 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap25') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot24.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot25 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap26') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p10line) 
+.plotregion1.plot25.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot26 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap27') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p11line) 
+.plotregion1.plot26.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot27 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap28') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p12line) 
+.plotregion1.plot27.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot28 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap29') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p13line) 
+.plotregion1.plot28.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot29 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap30') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p14line) 
+.plotregion1.plot29.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot30 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap31') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p15line) 
+.plotregion1.plot30.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot31 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap32') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p1line) 
+.plotregion1.plot31.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot32 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap33') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p2line) 
+.plotregion1.plot32.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot33 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap34') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p3line) 
+.plotregion1.plot33.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot34 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap35') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p4line) 
+.plotregion1.plot34.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot35 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap36') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p5line) 
+.plotregion1.plot35.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot36 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap37') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p6line) 
+.plotregion1.plot36.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot37 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap38') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p7line) 
+.plotregion1.plot37.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot38 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap39') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p8line) 
+.plotregion1.plot38.style.editstyle line(color(gs10)) area(linestyle(color(gs10))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.Declare plot39 = .yxview.new , type(line) serset(`.sersets[1].objkey') yvariable(`.sersets[1].seriesof gap3') xvariable(`.sersets[1].seriesof year')    plotregion(`.plotregion1.objkey') style(scheme p9line) 
+.plotregion1.plot39.style.editstyle line(color(black)) area(linestyle(color(black))) line(width(vthin)) area(linestyle(width(vthin))) line(pattern(solid)) area(linestyle(pattern(solid))) editcopy
+.plotregion1.clear_scales
+.plotregion1.reset_scales , noclear
+.n_views = 39
+.n_plotregions = 1
+.last_style = 39
+.x_scales = `" "1""'
+.y_scales = `" "1""'
+.create_axes 1 1 "9" "" 9
+.insert (legend = .legend_g.new, graphs(`.objkey') style(scheme)) below plotregion1 , ring(3) 
+.legend.style.editstyle box_alignment(S) editcopy
+.legend.holes = ""
+.legend.style.editstyle  force_draw(no) force_nodraw(yes) editcopy
+.legend.insert (note = .sized_textbox.new, mtextq(`""') style(scheme leg_note) ) below plotregion1 , ring(3) 
+.legend.note.style.editstyle box_alignment(SW) editcopy
+.legend.note.style.editstyle horizontal(left) editcopy
+.legend.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme leg_caption) ) below plotregion1 , ring(5) 
+.legend.caption.style.editstyle box_alignment(SW) editcopy
+.legend.caption.style.editstyle horizontal(left) editcopy
+.legend.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme leg_subtitle) ) above plotregion1 , ring(6) 
+.legend.subtitle.style.editstyle box_alignment(N) editcopy
+.legend.subtitle.style.editstyle horizontal(center) editcopy
+.legend.insert (title = .sized_textbox.new, mtextq(`""') style(scheme leg_title) ) above plotregion1 , ring(7) 
+.legend.title.style.editstyle box_alignment(N) editcopy
+.legend.title.style.editstyle horizontal(center) editcopy
+.legend.rebuild
+.legend.repositionkeys
+.xaxis1.title.edit , mtextq(`""year""')   replace
+tempname glsty
+.`glsty' = .gridlinestyle.new, style(scheme)
+.xaxis1.plotregion.declare_xyline .gridline_g.new 1989 , ordinate(x) plotregion(`.xaxis1.plotregion.objkey') styleref(`glsty') 
+.yaxis1.title.edit , mtextq(`""gap in per-capita cigarette state (in packs)""')   replace
+tempname glsty
+.`glsty' = .gridlinestyle.new, style(scheme)
+.yaxis1.plotregion.declare_xyline .gridline_g.new 0 , ordinate(y) plotregion(`.yaxis1.plotregion.objkey') styleref(`glsty') 
+.insert (r1title = .sized_textbox.new, mtextq(`""') style(scheme r1title) orientation(vertical)) rightof plotregion1 , ring(1) 
+.insert (r2title = .sized_textbox.new, mtextq(`""') style(scheme r2title) orientation(vertical)) rightof plotregion1 , ring(2) 
+.insert (l1title = .sized_textbox.new, mtextq(`""') style(scheme l1title) orientation(vertical)) leftof plotregion1 , ring(1) 
+.insert (l2title = .sized_textbox.new, mtextq(`""') style(scheme l2title) orientation(vertical)) leftof plotregion1 , ring(2) 
+.insert (t1title = .sized_textbox.new, mtextq(`""') style(scheme t1title) ) above plotregion1 , ring(1) 
+.insert (t2title = .sized_textbox.new, mtextq(`""') style(scheme t2title) ) above plotregion1 , ring(2) 
+.insert (b1title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(1) 
+.insert (b2title = .sized_textbox.new, mtextq(`""') style(scheme b1title) ) below plotregion1 , ring(2) 
+.insert (note = .sized_textbox.new, mtextq(`""') style(scheme note) ) below plotregion1 , ring(4) 
+.note.style.editstyle box_alignment(SW) editcopy
+.note.style.editstyle horizontal(left) editcopy
+.insert (caption = .sized_textbox.new, mtextq(`""') style(scheme caption) ) below plotregion1 , ring(5) 
+.caption.style.editstyle box_alignment(SW) editcopy
+.caption.style.editstyle horizontal(left) editcopy
+.insert (subtitle = .sized_textbox.new, mtextq(`""') style(scheme subtitle) ) above plotregion1 , ring(6) 
+.subtitle.style.editstyle box_alignment(N) editcopy
+.subtitle.style.editstyle horizontal(center) editcopy
+.insert (title = .sized_textbox.new, mtextq(`""') style(scheme title) ) above plotregion1 , ring(7) 
+.title.style.editstyle box_alignment(N) editcopy
+.title.style.editstyle horizontal(center) editcopy
+.insert (spacert = .spacer.new) above plotregion1 , ring(11)
+.insert (spacerb = .spacer.new) below plotregion1 , ring(11)
+.insert (spacerl = .spacer.new) leftof plotregion1 , ring(11)
+.insert (spacerr = .spacer.new) rightof plotregion1 , ring(11)
+.command = `"twoway    (line gap1 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap2 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap4 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap5 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap6 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap7 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap8 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap9 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap10 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap11 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap12 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap13 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap14 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap15 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap16 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap17 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap18 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap19 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap20 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap21 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap22 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap23 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap24 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap25 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap26 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap27 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap28 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap29 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap30 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap31 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap32 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap33 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap34 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap35 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap36 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap37 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap38 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap39 year, lp(solid) lw(vthin) lcolor(gs10))                                 (line gap3 year, lp(solid) lw(vthin) lcolor(black)),                                 ytitle("gap in per-capita cigarette state (in packs)") xtitle("year") yline(0) xline(1989) legend(off)"'
+.date = "10 May 2020"
+.time = "12:18:26"
+.dta_file = "placebo.dta"
+.dta_date = "10 May 2020 12:11"
+.plotregion1.plot39.style.editstyle line(width(vvthin)) editcopy
+.plotregion1.plot39.style.editstyle line(width(medium)) editcopy
+.plotregion1._xylines[1].style.editstyle linestyle(color(black)) editcopy
+.plotregion1._xylines[1].style.editstyle linestyle(pattern(dot)) editcopy
+.plotregion1._xylines[2].style.editstyle linestyle(color(black)) editcopy
+.plotregion1._xylines[2].style.editstyle linestyle(pattern(dash)) editcopy
+.yaxis1.style.editstyle draw_major_grid(no) editcopy
+.plotregion1.style.editstyle boxstyle(linestyle(color(black))) editcopy
+.style.editstyle boxstyle(shadestyle(color(white))) editcopy
+.style.editstyle boxstyle(linestyle(color(white))) editcopy
+.plotregion1._xylines[1].style.editstyle linestyle(pattern(vshortdash)) editcopy
+.plotregion1._xylines[1].style.editstyle linestyle(pattern(shortdash)) editcopy
+.xaxis1.reset_rule 1970 2000 5 , tickset(major) ruletype(range) 
+.yaxis1.reset_rule -30 30 10 , tickset(major) ruletype(range) 
+.yaxis1.reset_rule , tickset(major) ruletype(minmax) 
+.yaxis1.reset_rule -30 30 10 , tickset(major) ruletype(range) 
+.yaxis1.reset_rule -60 100 20 , tickset(major) ruletype(range) 
+.yaxis1.reset_rule -60 120 20 , tickset(major) ruletype(range) 
+.yaxis1.style.editstyle majorstyle(tickangle(horizontal)) editcopy
+<EndItem>
