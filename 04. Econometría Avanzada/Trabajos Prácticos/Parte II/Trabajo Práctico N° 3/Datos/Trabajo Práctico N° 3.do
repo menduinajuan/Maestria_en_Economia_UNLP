@@ -8,6 +8,9 @@ cd "`disco'/JM/Facultad de Ciencias Económicas (FCE)/Maestría en Economía/4. 
 use "base_Bosch&Manacorda", clear
 
 
+*ssc install semipar
+
+
 *##############################################################################*
 									* PARTE I *
 *##############################################################################*

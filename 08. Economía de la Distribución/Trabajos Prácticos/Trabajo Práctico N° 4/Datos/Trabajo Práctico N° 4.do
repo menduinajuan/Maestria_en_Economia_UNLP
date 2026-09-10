@@ -10,6 +10,9 @@ use "usu_individual_t119", clear
 *save "usu_individual_t119", replace
 
 
+*search povdeco5
+
+
 destring deccfr, replace
 drop if (deccfr>10)
 drop if (nro_hogar==51 | nro_hogar==71)

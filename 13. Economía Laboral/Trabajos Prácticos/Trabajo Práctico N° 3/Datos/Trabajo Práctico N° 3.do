@@ -8,6 +8,9 @@ cd "`disco'/JM/Facultad de Ciencias Económicas (FCE)/Maestría en Economía/13.
 use "panes_mmv", clear
 
 
+*search rdplot
+
+
 *##############################################################################*
 								* EJERCICIO 1 *
 *##############################################################################*
